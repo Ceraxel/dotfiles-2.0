@@ -1,0 +1,88 @@
+yay -S libreoffice
+yay -S xcape
+yay -S xcape
+yay -S nitrogen
+yay -Ss pavucontrol
+yay -S pavucontrol-qt
+yay -Runs pavucontrol-qt
+yay -Ss pipewire
+yay -Ss pipewire pavu
+yay -Ss pavu
+yay -Ss pipewire
+yay -Ss pipewire
+yay -S qpwgraph
+yay -Ss pipewire-pulse
+yay -S pipewire-pulse
+yay -S pavucontrol
+yay -S arandr
+yay -S flameshot
+yay -S ranger
+yay -S thunar
+yay -S QGtkStyle
+yay -Ss gtk style
+yay -S lxappearance
+yay -Qm
+yay -S tar
+yay -S xarchiver
+yay -Runs xarchiver
+yay -Ss lxqt file manager
+yay -Ss lxqt file archiver
+yay -S lxqt-archiver
+yay -Runs lxqt-archiver
+yay -S xarchiver
+yay -Qi xarchiver
+yay -S zip
+yay -S unzip
+yayyyyy
+yay
+yay -Ss windows font
+yay -Qi ttf-ms-win11-auto
+yay -Si ttf-ms-win11-auto
+yay -Ss ttf-ms-fonts
+yay -Si ttf-ms-fonts
+yay -S ttf-ms-fonts
+yay -S oto-fonts-cjk noto-fonts-emoji noto-fonts
+yay -S ttf-freefont ttf-ms-fonts ttf-linux-libertine ttf-dejavu ttf-inconsolata ttf-ubuntu-font-family
+yay -S ttf-freefont ttf-linux-libertine ttf-dejavu ttf-inconsolata ttf-ubuntu-font-family
+yay -S noto-fonts-cjk
+yay -Si noto-fonts-cjk
+yay -S noto-fonts-cjk
+history | grep yay > ~/Downloads/Packages.txt
+yay -S xdotool
+yay -S man
+yay -Ss man
+yay -S man
+yay -S discord
+yay -Ss visual studio code
+yay -Si code
+yay -S code
+yay -S mpv
+yay -S gotop
+yay -S udisks2
+yay -S udiskie
+yay -Ss ntfs
+yay -S ntfs
+yay -Si ntfs-3g
+yay -S ntfs-3g
+yay
+yay -S qemu virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat libguestfs
+yay -S exfat
+yay -Ss exfat
+yay
+yay
+yay -Ss redshift
+yay -S redshift
+yay -Ss geoclue
+yay -Ss geoclue2
+yay -S geoclue
+yay -Ss node
+yay -Ss nodejs
+yay -Ss nodejs-lts-gallium
+yay -S nodejs-lts-gallium
+yay -Runs nodejs-lts-gallium
+yay -S nodejs
+yay -S npm
+yay -Ss visual-studio-code
+yay -S visual-studio-code-bin
+yay -S xed
+history | grep yay | sed -e 's/^[0-9][0-9]*[[:space:]][[:space:]]*//'
